@@ -1,0 +1,6 @@
+node_modules
+*.io
+*.lnk
+*.io.js
+*.js.map
+*.json
